@@ -1,6 +1,3 @@
-# spam-url-injection-fix
-Guides and tutorials about website security, SEO recovery, spam URL injection fixes, and malware removal techniques.
-
 # How to Recover Website from Spam URL Injection
 
 Spam URL injection is a serious SEO security issue where hackers inject thousands of spam pages into a website. These pages usually contain gambling, pharma, or adult keywords that damage search rankings.
