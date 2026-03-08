@@ -34,4 +34,4 @@ After fixing the issue, request reindexing in Google Search Console.
 
 If your site has been hacked with spam URLs, follow this detailed guide:
 
-[Complete Spam URL Injection Recovery Guide]([https://yourwebsite.com/spam-url-injection-recovery](https://support.google.com/webmasters/thread/370892575/seo-spam-injection-resolved-%E2%80%93-request-guidance-on-ranking-recovery?hl=en)
+[Complete Spam URL Injection Recovery Guide](https://support.google.com/webmasters/thread/370892575/seo-spam-injection-resolved-%E2%80%93-request-guidance-on-ranking-recovery?hl=en)
